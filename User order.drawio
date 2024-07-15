@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T19:04:34.627Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Nqh_62GjbKBqqKAliTvq" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T19:05:01.250Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qXhL7gw0o852w-HY2ZpF" version="24.6.5" type="github">
   <diagram name="Page-1" id="PQpvzgl9xymPNwOv2N0A">
-    <mxGraphModel dx="1026" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="760" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,13 +13,13 @@
         <mxCell id="KWS7t6jafoBLZ8HItT5k-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#030303;" parent="KWS7t6jafoBLZ8HItT5k-1" vertex="1">
           <mxGeometry x="80" y="40" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KWS7t6jafoBLZ8HItT5k-4" value="Membuka halaman notifikasi" style="rounded=1;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-1" vertex="1">
+        <mxCell id="KWS7t6jafoBLZ8HItT5k-4" value="Membuka halaman keranjang" style="rounded=1;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-1" vertex="1">
           <mxGeometry x="35" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KWS7t6jafoBLZ8HItT5k-6" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="50" width="210" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="KWS7t6jafoBLZ8HItT5k-7" value="Menampilkan notifikasi" style="rounded=1;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-6" vertex="1">
+        <mxCell id="KWS7t6jafoBLZ8HItT5k-7" value="Menampilkan produk di keranjang" style="rounded=1;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-6" vertex="1">
           <mxGeometry x="51.25" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KWS7t6jafoBLZ8HItT5k-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="KWS7t6jafoBLZ8HItT5k-6" edge="1">
