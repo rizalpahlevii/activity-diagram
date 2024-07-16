@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T07:59:02.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KKWnYxHIvewDhgH3Qu6K" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T08:00:27.282Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="8GGrKBXR-kbx7UtZBMI3" version="24.6.5" type="github">
   <diagram name="Page-1" id="PQpvzgl9xymPNwOv2N0A">
-    <mxGraphModel dx="1026" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="933" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,22 +13,22 @@
         <mxCell id="KWS7t6jafoBLZ8HItT5k-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#030303;" parent="KWS7t6jafoBLZ8HItT5k-1" vertex="1">
           <mxGeometry x="80" y="40" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KWS7t6jafoBLZ8HItT5k-4" value="Membuka Aplikasi" style="rounded=1;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-1" vertex="1">
+        <mxCell id="KWS7t6jafoBLZ8HItT5k-4" value="Membuka halaman profil" style="rounded=1;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-1" vertex="1">
           <mxGeometry x="35" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KWS7t6jafoBLZ8HItT5k-5" value="Menambahkan produk ke keranjang" style="rounded=1;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-1" vertex="1">
+        <mxCell id="KWS7t6jafoBLZ8HItT5k-5" value="Mengubah data" style="rounded=1;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-1" vertex="1">
           <mxGeometry x="35" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KWS7t6jafoBLZ8HItT5k-6" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="50" width="290" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="KWS7t6jafoBLZ8HItT5k-7" value="Menampilkan produk" style="rounded=1;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-6" vertex="1">
+        <mxCell id="KWS7t6jafoBLZ8HItT5k-7" value="Menampilkan profil" style="rounded=1;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-6" vertex="1">
           <mxGeometry x="90" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KWS7t6jafoBLZ8HItT5k-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="KWS7t6jafoBLZ8HItT5k-6" source="KWS7t6jafoBLZ8HItT5k-9" target="KWS7t6jafoBLZ8HItT5k-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KWS7t6jafoBLZ8HItT5k-9" value="Mengecek ketersediaan stok" style="rounded=1;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-6" vertex="1">
+        <mxCell id="KWS7t6jafoBLZ8HItT5k-9" value="Validasi data" style="rounded=1;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-6" vertex="1">
           <mxGeometry x="103.75" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KWS7t6jafoBLZ8HItT5k-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="KWS7t6jafoBLZ8HItT5k-6" source="KWS7t6jafoBLZ8HItT5k-14" target="p34yP3oAxnCkHwa5mTD9-3" edge="1">
@@ -47,8 +47,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KWS7t6jafoBLZ8HItT5k-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Stok tersedia ?&amp;nbsp;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-6" vertex="1">
-          <mxGeometry x="123.75" y="250" width="80" height="80" as="geometry" />
+        <mxCell id="KWS7t6jafoBLZ8HItT5k-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Apakah valid&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="KWS7t6jafoBLZ8HItT5k-6" vertex="1">
+          <mxGeometry x="123.75" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KWS7t6jafoBLZ8HItT5k-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="KWS7t6jafoBLZ8HItT5k-6" source="KWS7t6jafoBLZ8HItT5k-16" target="KWS7t6jafoBLZ8HItT5k-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
